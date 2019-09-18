@@ -1,2 +1,2 @@
-# SerenityLanding
-Serenity Landing page for 
+# SerenityLandingPage
+Serenity Landing page for Clearspace Labs
